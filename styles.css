@@ -237,6 +237,7 @@ h3 {
 }
 
 .resume .base .profile .info .name {
+ margin-left: 110px;
   margin-top: 10px;
   margin-bottom: 0;
   font-size: 1.75em;
